@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 | Date  | Topic                          | Lecture | Hands-On | HW | Reading | Project |
 |-------|--------------------------------|---------|----------|----|---------|---------|
-| 09/01 | Intro to Data Mining           |         |          |    |  :file_folder:       |         |
+| 09/01 | Intro to Data Mining           |         |          |    |  :>file_folder:       |         |
 | 09/07 | Introduction to R / Rstudio    |         |          |    |         |         |
 | 09/14 | R basics, R markdown, Workflow |         |          |    |         |         |
 | 09/21 | Data Visualization (ggplot2)   |         |          |    |         |         |
