@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Grading Policies
-The final grade for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.
+The final grades for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.
 
 | Type	 | %  |
 | -------| -------|
