@@ -14,17 +14,17 @@ This course is focused on learning skills to mine data for generating insights f
 | 09/21 | Working with Data in R (dplyr)    |         |          
 | 09/28 | Data Visualization using ggplot2 - 2   |         |     
 | 10/05 | Data Visualization (ggplot2)   |         |          
-| 10/12 | Data Visualization (ggplot2)   |         |        
-| 10/19 | Data Visualization (ggplot2)   |         |          
-| 10/26 | Data Visualization (ggplot2)   |         |         
-| 11/02 | Data Visualization (ggplot2)   |         |     
-| 11/09 | Data Visualization (ggplot2)   |         |         
-| 11/16 | Data Visualization (ggplot2)   |         |
+| 10/12 | Correlation and Regression     |         |        
+| 10/19 | Market basket analysis         |         |          
+| 10/26 | Sentiment analysis             |         |         
+| 11/02 | Network analysis               |         |     
+| 11/09 | Geo-spatial Visualization      |         |         
+| 11/16 | Capstone project               |         |
 
 
+Correlation and Regression
 Market basket analysis
-Network analysis
 Sentiment analysis
-Regression
+Network analysis
 Geo-spatial Visualization
 Capstone project
