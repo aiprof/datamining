@@ -1,17 +1,164 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/datamining/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/datamining/" rel="alternate" type="text/html" /><updated>2020-08-28T17:14:43-04:00</updated><id>http://localhost:4000/datamining/feed.xml</id><title type="html">ISM7570 Data Mining</title><entry><title type="html">Welcome to Jekyll11!</title><link href="http://localhost:4000/datamining/jekyll/update/2020/08/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-21T00:37:13-04:00</published><updated>2020-08-21T00:37:13-04:00</updated><id>http://localhost:4000/datamining/jekyll/update/2020/08/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/datamining/jekyll/update/2020/08/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/datamining/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/datamining/" rel="alternate" type="text/html" /><updated>2020-08-28T18:53:41-04:00</updated><id>http://localhost:4000/datamining/feed.xml</id><title type="html">ISM7570 Data Mining</title><entry><title type="html">Course Policies</title><link href="http://localhost:4000/datamining/about/" rel="alternate" type="text/html" title="Course Policies" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/datamining/about</id><content type="html" xml:base="http://localhost:4000/datamining/about/">&lt;h2 id=&quot;grading-policies&quot;&gt;Grading Policies&lt;/h2&gt;
+&lt;p&gt;The final grades for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Type&lt;/th&gt;
+      &lt;th&gt;%&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exercises&lt;/td&gt;
+      &lt;td&gt;70%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Assignments&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Capstone&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Total&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Letter grades will be assigned based on the table below. The conversion scale in the table below may be adjusted depending on the overall class performance. The lowest passing grade is C.&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Letter grade&lt;/th&gt;
+      &lt;th&gt;Total percentage&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;95 – 100 or above&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A-&lt;/td&gt;
+      &lt;td&gt;90 – 94.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B+&lt;/td&gt;
+      &lt;td&gt;87 – 89.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B&lt;/td&gt;
+      &lt;td&gt;83 – 86.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B-&lt;/td&gt;
+      &lt;td&gt;80 – 82.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C+&lt;/td&gt;
+      &lt;td&gt;77 – 79.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;C&lt;/td&gt;
+      &lt;td&gt;73 – 76.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;Below 73&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;academic-misconduct&quot;&gt;Academic Misconduct&lt;/h2&gt;
+&lt;p&gt;All acts of academic dishonesty including cheating and plagiarism will be viewed as violations of appropriate student conduct and they will be dealt with following student due process policies in effect. Disciplinary actions will be taken as warranted. An act of academic dishonesty in this course will automatically result in a grade of F on the test or assignment at issue, and possibly for the course itself. Please, give credit where credit is due, specifically and consistently. The appropriate use of technology is expected. Please refer to the material posted on the WSU website regarding academic integrity and acceptable student conduct and appropriate use of technology resources. The following website provides clarification and examples of the behaviors that are prohibited (https://doso.wayne.edu/conduct/academic-misconduct).&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Strict compliance with the Wayne State University Academic Integrity policies and the Student Code of Conduct are required in this course. Any cheating (including collaboration among students on quizzes or exams), fabrication, plagiarism, or other academic dishonesty may result in an automatic failing grade for this entire course, irrespective of the specific context or assessment involved (quiz, research paper, exam, etc.). Also, charges may be filed with the Judicial Officer of the Dean of Students Office. For more information, see the Student Code of Conduct brochure. There is zero tolerance for academic dishonesty in this course.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;In this regard, please be advised that written assignments, such as essay exam answers, papers, and other submissions, may be submitted to SafeAssign/Uni-check software (or similar software or services) for an evaluation of the originality of your work, for assurance that these assignments contain no plagiarism, and for proper attribution of published sources, and may be included in the restricted databases of providers such as SafeAssign/Uni-check, solely for the purpose of detecting plagiarism. Plagiarism is a form of cheating and, consistent with the University’s Student Code of Conduct and our School’s Code of Ethics evidence of plagiarism in written assignments, or evidence of other violations, are grounds for further disciplinary action.&lt;/p&gt;
+
+&lt;p&gt;For more information of academic integrity, see the following book:&lt;/p&gt;
+
+&lt;p&gt;Lipson, C. Doing honest work in college: how to prepare citations, avoid plagiarism, and achieve academic success, Chicago, 2004.&lt;/p&gt;
+
+&lt;h2 id=&quot;student-disabilities-services&quot;&gt;Student Disabilities Services&lt;/h2&gt;
+&lt;p&gt;If you have a documented disability that requires accommodations, you will need to register with Student Disability Services for coordination of your academic accommodations. The Student Disability Services (SDS) office is located at 1600 David Adamany Undergraduate Library in the Student Academic Success Services department. The SDS telephone number is 313-577-1851 or 313-202-4216 for videophone use. Once you have your accommodations in place, I will be glad to meet with you privately during my office hours to discuss your special needs. Student Disability Services’ mission is to assist the university in creating an accessible community where students with disabilities have an equal opportunity to fully participate in their educational experience at Wayne State University. You can learn more about the disability office at www.studentdisability.wayne.edu To register with Student Disability Services, complete the online registration form at: https://wayne-accommodate.symplicity.com/public_accommodation/&lt;/p&gt;</content><author><name></name></author><summary type="html">Grading Policies The final grades for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.</summary></entry><entry><title type="html">Syllabus</title><link href="http://localhost:4000/datamining/syllabus/" rel="alternate" type="text/html" title="Syllabus" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/datamining/syllabus</id><content type="html" xml:base="http://localhost:4000/datamining/syllabus/">&lt;p&gt;The Data Mining course for graduate students, is focused on learning skills necessary for generating insights from data to aid business decision making. This is a hands on course with a focus on teaching technical skills for converting raw data into useful insights. Students will learn how to ingest, prep, visualize and mine data using the popular open source data science tool - R. Applications of data mining techniques in business functions will be illustrated. A computer is required for this course. No prior programming experience is assumed.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Week of&lt;/th&gt;
+      &lt;th&gt;Topic&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;09/01&lt;/td&gt;
+      &lt;td&gt;Intro to Data Mining&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;09/07&lt;/td&gt;
+      &lt;td&gt;R basics , Anatomy of R&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;09/14&lt;/td&gt;
+      &lt;td&gt;Data Visualization using ggplot2 - 1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;09/21&lt;/td&gt;
+      &lt;td&gt;Working with Data in R (dplyr)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;09/28&lt;/td&gt;
+      &lt;td&gt;Data Visualization using ggplot2 - 2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/05&lt;/td&gt;
+      &lt;td&gt;Correlation &amp;amp; Regression&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/12&lt;/td&gt;
+      &lt;td&gt;Market basket Analysis&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/19&lt;/td&gt;
+      &lt;td&gt;Text Analytics&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/26&lt;/td&gt;
+      &lt;td&gt;Social Media Analytics&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11/02&lt;/td&gt;
+      &lt;td&gt;Geo-spatial Analytics&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11/09&lt;/td&gt;
+      &lt;td&gt;Communicating Insights for Decision Making&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;text-books&quot;&gt;Text Books&lt;/h2&gt;
+&lt;p&gt;Much of the material we cover in the course is available in these two online textbooks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://r4ds.had.co.nz/&quot;&gt;Grolemund, Garrett, and Wickham, Hadley. R for data science, 1st Edition, O’Reilly Media&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rafalab.github.io/dsbook/&quot;&gt;Irizarry, Rafael, Introduction to Data Science, 1st Edition, Chapman and Hall/CRC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to these you may come across a large variety of free books and resources available on the web. No text book purchase is required for this course. Any required readings will be referenced through the course as needed.&lt;/p&gt;
+
+&lt;h2 id=&quot;workflow&quot;&gt;Workflow&lt;/h2&gt;
+&lt;p&gt;Work will consist of tutorials, videos, hands on labs and exercises. There will be a heavy emphasis on learning by doing. Task lists for each week will be laid out in detail.&lt;/p&gt;
+&lt;h3 id=&quot;datacamp&quot;&gt;Datacamp&lt;/h3&gt;
+&lt;p&gt;Hands on Labs will be available on Datacamp, an online platform for data science tutorials and exercises.
+Datacamp labs are guided tutorials with hints to aid the learning process. Students will be provided access to this platform as part of this class. They do NOT need to pay for the platform.&lt;/p&gt;
+
+&lt;h2 id=&quot;evaluation-of-work&quot;&gt;Evaluation of work&lt;/h2&gt;
+&lt;p&gt;Given the limited time and the expanse of the subject, we will not use up classes for exams. Instead, your evaluation will depend upon completion of labs and assignments, that will be assigned each week. Students can attempt the labs as many times as needed. Pass/fail scores will be assigned based on on-time completion of these labs. In addition to labs, exercises and quizzes will be assigned at appropriate points in the course.&lt;/p&gt;
+
+&lt;h2 id=&quot;industry-application-optional&quot;&gt;Industry Application (optional)&lt;/h2&gt;
+&lt;p&gt;Students interested in applying data mining to specific projects in their work place are welcome to approach Prof. Sharma directly. He has over a decade of industry experience before joining academia and students in previous terms have availed of this option. This is available as a purely optional component, and will not affect course grading in any way.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Data Mining course for graduate students, is focused on learning skills necessary for generating insights from data to aid business decision making. This is a hands on course with a focus on teaching technical skills for converting raw data into useful insights. Students will learn how to ingest, prep, visualize and mine data using the popular open source data science tool - R. Applications of data mining techniques in business functions will be illustrated. A computer is required for this course. No prior programming experience is assumed.</summary></entry></feed>
