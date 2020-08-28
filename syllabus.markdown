@@ -34,7 +34,7 @@ Hands on Labs will be available on Datacamp, an online platform for data science
 Datacamp labs are guided tutorials with hints to aid the learning process. Students will be provided access to this platform as part of this class. They do NOT need to pay for the platform.
 
 ## Evaluation of work
-Given the limited time and the expanse of the subject, we will not burn classes for exams. Instead, your evaluation will depend upon completion of labs and assignments, that will be assigned each week. Students can attempt the labs as many times as needed. Pass/fail scores will be assigned based on on-time completion of these labs. In addition to labs, exercises and quizzes will be assigned at appropriate points in the course.
+Given the limited time and the expanse of the subject, we will not use up classes for exams. Instead, your evaluation will depend upon completion of labs and assignments, that will be assigned each week. Students can attempt the labs as many times as needed. Pass/fail scores will be assigned based on on-time completion of these labs. In addition to labs, exercises and quizzes will be assigned at appropriate points in the course.
 
 ## Industry Application (optional)
 Students interested in applying data mining to specific projects in their work place are welcome to approach Prof. Sharma directly. He has over a decade of industry experience before joining academia and students in previous terms have availed of this option. This is available as a purely optional component, and will not affect course grading in any way.
