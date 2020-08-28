@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Grading Policies
-Each unit of work assigned is graded, either by the instructor or the TA. Every effort will be made to complete grading in one week, although schedule conflicts may cause delays sometimes. The final grade for the course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.
+The final grade for the course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.
 
 | Type	 | %  |
 | -------| -------|
