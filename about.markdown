@@ -2,6 +2,7 @@
 layout: page
 title: Course Policies
 permalink: /about/
+order: 1
 ---
 
 ## Grading Policies

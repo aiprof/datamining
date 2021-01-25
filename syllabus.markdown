@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
+order: 3
 ---
 
 The Data Mining course for graduate students, is focused on learning skills necessary for generating insights from data to aid business decision making. This is a hands on course with a focus on teaching technical skills for converting raw data into useful insights. Students will learn how to ingest, prep, visualize and mine data using the popular open source data science tool - R. Applications of data mining techniques in business functions will be illustrated. A computer is required for this course. No prior programming experience is assumed.
